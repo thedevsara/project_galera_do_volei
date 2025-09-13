@@ -131,16 +131,15 @@ Este projeto implementa uma API RESTful para um aplicativo de organização de p
 
 ---
 
+
 ## Como Rodar o Projeto
 
 1.  **Instalar as dependências:**
     ```bash
     npm install
     ```
-2.  **Iniciar o servidor:**
+2.  **Compilar e Iniciar o servidor:**
     ```bash
-    npm run dev
+    npx tsc && node dist/server.js
     ```
     O servidor será iniciado em `http://localhost:3000`.
-
----
