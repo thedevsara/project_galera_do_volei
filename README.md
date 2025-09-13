@@ -140,6 +140,7 @@ Este projeto implementa uma API RESTful para um aplicativo de organização de p
     ```
 2.  **Compilar e Iniciar o servidor:**
     ```bash
-    npx tsc && node dist/server.js
+    npx tsc
+    node dist/server.js
     ```
     O servidor será iniciado em `http://localhost:3000`.
