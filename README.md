@@ -85,7 +85,7 @@ Este projeto implementa uma API RESTful para um aplicativo de organização de p
     ```json
     {
       "id": 1,
-      "nome": "JitaJoia",
+      "nome": "Jio",
       "idade": 21,
       "sexo": "feminino",
       "categoria": "iniciante",
